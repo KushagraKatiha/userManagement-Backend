@@ -37,7 +37,6 @@ exports.register= async (req, res)=>{
 }
 
 
-
 // To login user
 
 exports.login = async (req, res)=>{
